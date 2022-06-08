@@ -3,7 +3,7 @@ using CommunityToolkit.Maui.Alerts;
 using CommunityToolkit.Maui.Core;
 using FluentAssertions;
 using Xunit;
-       
+            
 namespace CommunityToolkit.Maui.UnitTests.Alerts;
 
 public class Toast_Tests : BaseTest
